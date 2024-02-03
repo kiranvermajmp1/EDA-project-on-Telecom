@@ -15,6 +15,9 @@
 
 3.How To install and run the Project
 
+    Link to download the data
+    https://drive.google.com/drive/u/0/home
+    
     a)Anaconda should be installed in your system 
     b)from anaconda library install jupyter notebook 
     c)Download the DataSets for events_data from : events_data.csv
