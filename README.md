@@ -44,6 +44,17 @@
      6. Sunilpillai.2016@gmail.com
      7. Sapnaonline215@gmail.com
 
+     Link to download the data
+      https://drive.google.com/drive/u/0/home
+
+a)Anaconda should be installed in your system 
+b)from anaconda library install jupyter notebook 
+c)Download the DataSets for events_data from : events_data.csv
+d)Download the DataSets for gender_age_train & phone_brand_device_model onto Python by connecting to the 
+   MySQL instance.
+e)then join both the file as one by using joins.
+f)now perform the Analysis anD EDA on the Dataset.
+
 6. final outcomes or Role in the project.
    
      1.To help the customer the consultants are expected to have depth of clarity in the underlying data.
